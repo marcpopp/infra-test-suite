@@ -1,0 +1,5 @@
+testinfra
+pytest-xdist
+paramiko
+ansible
+pyaml
